@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saurabhoml
-- 👀 I’m interested in creative and innovative ideas and beautiful minds...
-- 🌱 I’m currently learning MERN stack...
-- 💞️ I’m looking to collaborate on MERN stack, PHP and its frameworks...
-- 📫 How to reach me : follow me on insta: sau.rab.h...
+- 👋 Hi, I’m @saurabhoml, an engineer by profession but an artist by Heart.
+- 👀 I’m interested in creative and innovative ideas and beautiful minds.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on MERN stack, PHP and its frameworks.
+- 📫 How to reach me : follow me on insta: sau.rab.h
 
 <!---
 saurabhoml/saurabhoml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
